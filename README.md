@@ -1,3 +1,12 @@
+# ATIVIDADE - PRODUTOS, PANELAS, SANDÁLIAS E SORVETES
+![Captura de tela 2024-05-28 152049](https://github.com/beatrizreis8/INFORMATICA/assets/162644720/d41fc244-26d8-41d2-a539-1652038a776e)
+![Captura de tela 2024-05-28 152147](https://github.com/beatrizreis8/INFORMATICA/assets/162644720/975ce087-09a5-4fa3-811e-0242e2e0c5c3)
+![Captura de tela 2024-05-28 151412](https://github.com/beatrizreis8/INFORMATICA/assets/162644720/88b39311-e952-4f87-b5f4-2661e33abfea)
+![Captura de tela 2024-05-28 151739](https://github.com/beatrizreis8/INFORMATICA/assets/162644720/166b8b08-1c6d-4508-aeee-28ecc7ef5cf4)
+
+
+
+
 # POWER APPS "INFORMA BRASIL"
 
 https://make.powerapps.com/e/Default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/canvas/?action=edit&app-id=%2Fproviders%2FMicrosoft.PowerApps%2Fapps%2Febc6cd50-8c4b-4f17-a536-7bca7f74e693
