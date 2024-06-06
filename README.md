@@ -1,3 +1,7 @@
+# POWER AUTOMATE - ATIVIDADE
+![Captura de tela 2024-06-06 143552](https://github.com/beatrizreis8/INFORMATICA/assets/162644720/c03dedca-5906-4106-88af-372a9cce9e3a)
+![Captura de tela 2024-06-06 143653](https://github.com/beatrizreis8/INFORMATICA/assets/162644720/431c81bd-6dab-49e7-b0ed-add9c6855f57)
+
 # ATIVIDADE - PRODUTOS, PANELAS, SANDÁLIAS E SORVETES
 ![Captura de tela 2024-05-28 152049](https://github.com/beatrizreis8/INFORMATICA/assets/162644720/d41fc244-26d8-41d2-a539-1652038a776e)
 ![Captura de tela 2024-05-28 152147](https://github.com/beatrizreis8/INFORMATICA/assets/162644720/975ce087-09a5-4fa3-811e-0242e2e0c5c3)
