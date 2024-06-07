@@ -20,3 +20,7 @@ https://make.powerapps.com/e/Default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/canvas
 ![Captura de tela datas do acidente do app](https://github.com/beatrizreis8/INFORMATICA/assets/162644720/b15d4437-9b77-4806-bcaa-7e5e23eb60c9)
 ![Captura de tela generos do app](https://github.com/beatrizreis8/INFORMATICA/assets/162644720/8a633423-6eac-433c-9bb4-49023c41dd38)
 ![Captura de tela obtos do app](https://github.com/beatrizreis8/INFORMATICA/assets/162644720/abaad317-b1c6-4b61-8e7b-d993e92b8938)
+
+# HORARIO DE AULAS - EXCEL
+![Captura de tela 2024-06-07 100855](https://github.com/beatrizreis8/INFORMATICA/assets/162644720/ad683bf7-0223-4986-94cb-b7d208376dde)
+![Captura de tela 2024-06-07 100909](https://github.com/beatrizreis8/INFORMATICA/assets/162644720/bc2e9b0d-f2da-4f6f-b8bb-a321f670e500)
