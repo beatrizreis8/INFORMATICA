@@ -18,6 +18,8 @@ https://make.powerapps.com/e/Default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/canvas
 ![Captura de tela datas do acidente do app](https://github.com/beatrizreis8/INFORMATICA/assets/162644720/b15d4437-9b77-4806-bcaa-7e5e23eb60c9)
 ![Captura de tela generos do app](https://github.com/beatrizreis8/INFORMATICA/assets/162644720/8a633423-6eac-433c-9bb4-49023c41dd38)
 ![Captura de tela obtos do app](https://github.com/beatrizreis8/INFORMATICA/assets/162644720/abaad317-b1c6-4b61-8e7b-d993e92b8938)
+# PROVA - POWER BI
+![Captura de tela 2024-06-10 194519](https://github.com/beatrizreis8/INFORMATICA/assets/162644720/dcdd90a6-959c-4c6d-b43d-22a6e2eb7aca)
 
 # POWER BI - DADOS ABERTOS
 ![Captura de tela 2024-06-10 194003](https://github.com/beatrizreis8/INFORMATICA/assets/162644720/7328a416-e90f-46d3-81d2-171c85e2d642)
