@@ -23,7 +23,7 @@ https://make.powerapps.com/e/Default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/canvas
 
 # POWER BI - DADOS ABERTOS
 ![Captura de tela 2024-06-10 194003](https://github.com/beatrizreis8/INFORMATICA/assets/162644720/7328a416-e90f-46d3-81d2-171c85e2d642)
-
+https://github.com/beatrizreis8/INFORMATICA/raw/main/4powerbisamara%20(1).pbix
 
 # ATIVIDADE - PRODUTOS, PANELAS, SANDÁLIAS E SORVETES
 ![Captura de tela 2024-05-28 152049](https://github.com/beatrizreis8/INFORMATICA/assets/162644720/d41fc244-26d8-41d2-a539-1652038a776e)
